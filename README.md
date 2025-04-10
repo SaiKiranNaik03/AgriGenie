@@ -103,7 +103,7 @@ AgriGenie is a comprehensive digital platform designed to connect farmers and bu
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/yourusername/agrigenie.git
+   git clone https://github.com/SaiKiranNaik03/AgriGenie.git
    cd agrigenie
    ```
 
